@@ -1,0 +1,6 @@
+applicationType: cli
+defaultPackage: org.ethelred.mcaddonutils
+testFramework: junit
+sourceLanguage: java
+buildTool: gradle_kotlin
+features: [app-name, assertj, github-workflow-ci, gradle, http-client-test, jackson-databind, java, junit, junit-params, logback, micronaut-build, picocli, picocli-java-application, picocli-junit, readme, shade, validation, yaml, yaml-build]
